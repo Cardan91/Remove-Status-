@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [""];
+const statusMessages = ["Promoción","Difusión","Plantillas", "Búsqueda","y Más..."];
 
 
 let currentIndex = 0;
